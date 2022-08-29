@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Parry_Note.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down0000" x="0" y="0" width="142" height="138"/>
+	<SubTexture name="Left0000" x="142" y="0" width="138" height="141"/>
+	<SubTexture name="Right0000" x="280" y="0" width="138" height="142"/>
+	<SubTexture name="Up0000" x="418" y="0" width="141" height="138"/>
+</TextureAtlas>
