@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PAPS_note.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down0000" x="338" y="10" width="157" height="154"/>
+	<SubTexture name="left00000" x="10" y="10" width="154" height="157"/>
+	<SubTexture name="right00000" x="174" y="10" width="154" height="157"/>
+	<SubTexture name="up00000" x="10" y="177" width="157" height="154"/>
+	<SubTexture name="none00000" x="300" y="500" width="1" height="1"/>
+</TextureAtlas>
